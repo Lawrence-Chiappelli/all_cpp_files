@@ -2,13 +2,15 @@
 
 These are C++ assignments completed during my enrollment at Atlantic Cape Commmunity College.
 
+This repository is intended to be a portfolio repository.
+
 ## Instructions to quickly run and verify the code:
 1. Copy the desired code
 2. Visit the online compiler https://www.onlinegdb.com/online_c++_compiler
 3. Paste the code accordingly
 4. Run the code
 
-*The code can now run and be tested.*
+*The code should now be running accordingly.*
 
 ### Description of each program:
 
